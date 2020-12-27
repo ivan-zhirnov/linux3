@@ -61,7 +61,9 @@ fi
 #account    required     pam_time.so
 account    required     pam_script.so
 ```
-* Проверяем вход через ssh: `ssh user1@localhost`
+* Проверяем вход через ssh: `ssh user1@localhost`  
+![](https://sun9-48.userapi.com/impg/IJInnlj7ezdybtFMwMqQJxsy-lb211QZXbs9hw/AtfM7qC1kq4.jpg?size=721x415&quality=96&proxy=1&sign=9bd52e3b697be851de4962cf51b3fcea&type=album)
+
 
 ### 2 Часть
 1. Установить докер (Debian)
